@@ -1,1 +1,1 @@
-# NLP-and-Word-Emneddings
+# NLP-and-Word-Embeddings
